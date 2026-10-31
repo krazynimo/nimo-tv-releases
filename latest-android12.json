@@ -1,8 +1,8 @@
 {
-  "version": "1.10",
-  "versionCode": 200,
-  "file": "NiMoTV-1.10-android12.apk",
-  "size": 1672687,
-  "sha256": "d625bc06bd53606cb96f2713608e5ad2a73b17827fb2ab787e59803a5f8ade6b",
-  "notes": "IMDb key entry, Swipe, Cast tile"
+  "version": "1.11",
+  "versionCode": 210,
+  "file": "NiMoTV-1.11-android12.apk",
+  "size": 1697263,
+  "sha256": "ae04408b32a5c260f10a065a09be44b5a31768af7762f2eef5561c7bc407dcf1",
+  "notes": "Bento home layout"
 }
