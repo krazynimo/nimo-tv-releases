@@ -1,8 +1,8 @@
 {
-  "version": "1.3",
-  "versionCode": 130,
-  "file": "NiMoTV-1.3.apk",
-  "size": 1648111,
-  "sha256": "cbd859efa66514a9872e27f880a18bd1d9c0cb9fd992359bec7d879c58b2e818",
-  "notes": "One-time notice of what's new after an update"
+  "version": "1.4",
+  "versionCode": 140,
+  "file": "NiMoTV-1.4.apk",
+  "size": 1652207,
+  "sha256": "1b0b3e6ea5e850fa2817352c32e659fa44ce62e44b9ac521ba5a696dee17d63e",
+  "notes": "Wallpaper every 5 minutes, glass Control Centre, no crypto rows"
 }
