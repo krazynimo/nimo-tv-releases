@@ -1,8 +1,8 @@
 {
-  "version": "1.15",
-  "versionCode": 250,
-  "file": "NiMoTV-1.15-android12.apk",
-  "size": 1709551,
-  "sha256": "2a2140960af285e3da2a61a2d1b336f269b25ae600292444522648d8c20833b2",
-  "notes": "Live score opens the match's app"
+  "version": "1.16",
+  "versionCode": 260,
+  "file": "NiMoTV-1.16-android12.apk",
+  "size": 1730031,
+  "sha256": "ad503dd455821bf629af56cff89ebba9bae94f3e0dc93b8bc86dab8a9781da05",
+  "notes": "Discover page with genre rows from all your apps; Bedtime tile; photos chosen by time of day; morning summary; Continue Watching always on the Bento tile; live matches try to open the match directly."
 }
