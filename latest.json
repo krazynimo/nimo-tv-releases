@@ -1,8 +1,8 @@
 {
-  "version": "1.5",
-  "versionCode": 150,
-  "file": "NiMoTV-1.5.apk",
+  "version": "1.6",
+  "versionCode": 160,
+  "file": "NiMoTV-1.6.apk",
   "size": 1652207,
-  "sha256": "7a20523a7765702f86c0309b2d4bcd082364089e674a76ec98c1285be707d886",
-  "notes": "Measure now in Settings; credit line moved under the version"
+  "sha256": "b6e4b0e061c99493b1e3c2ed9609c62a31dcd526cc2ba1cf926bee452bfdf61e",
+  "notes": "Settings button toggles the Control Centre"
 }
