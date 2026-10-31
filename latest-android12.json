@@ -1,8 +1,8 @@
 {
-  "version": "1.8",
-  "versionCode": 180,
-  "file": "NiMoTV-1.8.apk",
-  "size": 1656303,
-  "sha256": "ccf8ed692f072594f98c4f80400dd95b416a96d6d0a8cb3039cf51a2bf3a85bb",
-  "notes": "Lighter on memory, honest Measure now"
+  "version": "1.9",
+  "versionCode": 190,
+  "file": "NiMoTV-1.9-android12.apk",
+  "size": 1672687,
+  "sha256": "3881dc73e76fc6a1fb0b62a195cc66adb1e3150f2d55750bb910b1afd97a65eb",
+  "notes": "Swipe, Cast tile with AirPlay"
 }
