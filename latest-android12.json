@@ -1,8 +1,8 @@
 {
-  "version": "1.18",
-  "versionCode": 280,
-  "file": "NiMoTV-1.18-android12.apk",
-  "size": 1713647,
-  "sha256": "bfd4ffa3e26f95903e7de9846b855401889178f59f311a4d60b13130486288a7",
-  "notes": "Settings reorganised into clear sections; three layouts (Bento, Picks, Wallpaper); Discover rows by language and genre, movies and TV shows; picks change every hour; IMDb lookups capped under the daily limit."
+  "version": "1.19",
+  "versionCode": 290,
+  "file": "NiMoTV-1.19-android12.apk",
+  "size": 1729595,
+  "sha256": "c6fc905dc7759d76dbc00f1c5d7e452d2b72542cc23a63f3284f25b7c9942984",
+  "notes": "My List; Search across your apps; Watched it (with Loved it / OK / Not for us) and history; choose which app opens a title; All \u203a on Live & Coming up; live matches open JioHotstar normally; safe mode if an update misbehaves; On this day photos; morning results; Photo clock is the only screensaver; no idle clock card."
 }
