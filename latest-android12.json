@@ -1,8 +1,8 @@
 {
-  "version": "1.16",
-  "versionCode": 260,
-  "file": "NiMoTV-1.16-android12.apk",
+  "version": "1.17",
+  "versionCode": 270,
+  "file": "NiMoTV-1.17-android12.apk",
   "size": 1730031,
-  "sha256": "ad503dd455821bf629af56cff89ebba9bae94f3e0dc93b8bc86dab8a9781da05",
-  "notes": "Discover page with genre rows from all your apps; Bedtime tile; photos chosen by time of day; morning summary; Continue Watching always on the Bento tile; live matches try to open the match directly."
+  "sha256": "a828fd2e6f4d5f3c70714dd2dfe9db97573f40f5f589c006973990af95215955",
+  "notes": "Bento no longer repeats Continue Watching and the weather below the apps."
 }
