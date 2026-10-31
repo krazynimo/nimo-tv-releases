@@ -1,8 +1,8 @@
 {
-  "version": "1.6",
-  "versionCode": 160,
-  "file": "NiMoTV-1.6.apk",
-  "size": 1652207,
-  "sha256": "b6e4b0e061c99493b1e3c2ed9609c62a31dcd526cc2ba1cf926bee452bfdf61e",
-  "notes": "Settings button toggles the Control Centre"
+  "version": "1.7",
+  "versionCode": 170,
+  "file": "NiMoTV-1.7.apk",
+  "size": 1656303,
+  "sha256": "e9d9828831ea47a2a4ba31a19337a3b7cef4cf31b721b9bf4ff93c551d4b4517",
+  "notes": "Picks every 15 minutes, Not interested remembered, update channels"
 }
