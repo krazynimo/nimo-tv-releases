@@ -1,8 +1,8 @@
 {
-  "version": "1.9",
-  "versionCode": 190,
-  "file": "NiMoTV-1.9-android12.apk",
+  "version": "1.10",
+  "versionCode": 200,
+  "file": "NiMoTV-1.10-android12.apk",
   "size": 1672687,
-  "sha256": "3881dc73e76fc6a1fb0b62a195cc66adb1e3150f2d55750bb910b1afd97a65eb",
-  "notes": "Swipe, Cast tile with AirPlay"
+  "sha256": "d625bc06bd53606cb96f2713608e5ad2a73b17827fb2ab787e59803a5f8ade6b",
+  "notes": "IMDb key entry, Swipe, Cast tile"
 }
