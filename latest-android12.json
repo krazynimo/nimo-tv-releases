@@ -1,8 +1,8 @@
 {
-  "version": "1.13",
-  "versionCode": 230,
-  "file": "NiMoTV-1.13-android12.apk",
-  "size": 1705455,
-  "sha256": "153f4e6c25c7739eb520b06566b3ede1a8aabfb2407691e7a9a2dc77c2dba5af",
-  "notes": "Bento switched on"
+  "version": "1.14",
+  "versionCode": 240,
+  "file": "NiMoTV-1.14-android12.apk",
+  "size": 1709551,
+  "sha256": "7da1ef628445c68cac9b5a5f987a6bea75a483a77e4154419e15b8a0abbcc98b",
+  "notes": "Screensaver layout, weather high/low, Continue Watching artwork"
 }
