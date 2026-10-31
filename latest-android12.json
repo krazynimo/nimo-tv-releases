@@ -1,8 +1,8 @@
 {
-  "version": "1.19",
-  "versionCode": 290,
-  "file": "NiMoTV-1.19-android12.apk",
-  "size": 1729595,
-  "sha256": "c6fc905dc7759d76dbc00f1c5d7e452d2b72542cc23a63f3284f25b7c9942984",
-  "notes": "My List; Search across your apps; Watched it (with Loved it / OK / Not for us) and history; choose which app opens a title; All \u203a on Live & Coming up; live matches open JioHotstar normally; safe mode if an update misbehaves; On this day photos; morning results; Photo clock is the only screensaver; no idle clock card."
+  "version": "1.20",
+  "versionCode": 300,
+  "file": "NiMoTV-1.20-android12.apk",
+  "size": 1745979,
+  "sha256": "f8781b49ed3575dbe6c330faa5d88dedb455c5be3837e3d72a0827506e031b4b",
+  "notes": "Resume last app after the TV comes on; Weekend pick in Discover and Bento; Bedtime reminder (default 23:00, change or turn off in Screensaver & sleep)."
 }
