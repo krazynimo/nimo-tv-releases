@@ -1,8 +1,8 @@
 {
-  "version": "1.17",
-  "versionCode": 270,
-  "file": "NiMoTV-1.17-android12.apk",
-  "size": 1730031,
-  "sha256": "a828fd2e6f4d5f3c70714dd2dfe9db97573f40f5f589c006973990af95215955",
-  "notes": "Bento no longer repeats Continue Watching and the weather below the apps."
+  "version": "1.18",
+  "versionCode": 280,
+  "file": "NiMoTV-1.18-android12.apk",
+  "size": 1713647,
+  "sha256": "bfd4ffa3e26f95903e7de9846b855401889178f59f311a4d60b13130486288a7",
+  "notes": "Settings reorganised into clear sections; three layouts (Bento, Picks, Wallpaper); Discover rows by language and genre, movies and TV shows; picks change every hour; IMDb lookups capped under the daily limit."
 }
