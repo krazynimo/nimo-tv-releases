@@ -1,8 +1,8 @@
 {
-  "version": "1.20",
-  "versionCode": 300,
-  "file": "NiMoTV-1.20-android12.apk",
+  "version": "1.21",
+  "versionCode": 310,
+  "file": "NiMoTV-1.21.apk",
   "size": 1745979,
-  "sha256": "f8781b49ed3575dbe6c330faa5d88dedb455c5be3837e3d72a0827506e031b4b",
-  "notes": "Resume last app after the TV comes on; Weekend pick in Discover and Bento; Bedtime reminder (default 23:00, change or turn off in Screensaver & sleep)."
+  "sha256": "d3de80b3eb65fe9b9f05f7f92d8e15e6bd8e1f90ebe2761c6bf76d841e39d356",
+  "notes": "Everything from v1.9 to v1.20 for the Android 14 TV: Bento, Photo clock, Discover, Search, My List, Watched it, IMDb ratings, Bedtime, resume last app, weekend pick. Fixes for Android 14."
 }

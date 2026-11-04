@@ -1,8 +1,8 @@
 {
-  "version": "1.8",
-  "versionCode": 180,
-  "file": "NiMoTV-1.8.apk",
-  "size": 1656303,
-  "sha256": "ccf8ed692f072594f98c4f80400dd95b416a96d6d0a8cb3039cf51a2bf3a85bb",
-  "notes": "Lighter on memory, honest Measure now"
+  "version": "1.21",
+  "versionCode": 310,
+  "file": "NiMoTV-1.21.apk",
+  "size": 1745979,
+  "sha256": "d3de80b3eb65fe9b9f05f7f92d8e15e6bd8e1f90ebe2761c6bf76d841e39d356",
+  "notes": "Everything from v1.9 to v1.20 for the Android 14 TV: Bento, Photo clock, Discover, Search, My List, Watched it, IMDb ratings, Bedtime, resume last app, weekend pick. Fixes for Android 14."
 }
